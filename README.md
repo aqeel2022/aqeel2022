@@ -14,7 +14,10 @@
 
 <h3>My Publications &#128214;</h3>
 
-- <b>A. Ahmed </b>, C. Tjortjis, <a href="http://www.icecet.com/">Machine Learning-based IoT-BotNet Attack Detection Using Real-time Heterogeneous Data (presented in International Conference on Electrical, Computer and Energy Technologies (ICECET) 20-22 July 2022, Prague, Czech Republic),</a>
+- <b>A. Ahmed </b>, C. Tjortjis, <a href="http://www.icecet.com/">Machine Learning-based IoT-BotNet Attack Detection Using Real-time Heterogeneous Data (presented in International Conference on Electrical, Computer and Energy Technologies (ICECET) 20-22 July 2022, Prague, Czech Republic),</a> 
+
+- S. Muhammad, S. Shah, S. A. Memon, E. Saba, A. Latif, and <b> A. Ahmed </b>,  <a href="https://www.researchgate.net/profile/Aqeel-Ahmed-8">  “Deep Learning based
+Automated Modulation Recognition for Cognitive Radio Networks,” IJCSNS Int. J. Comput. Sci. Netw. Secur., vol. 22, no. 5, 2022 </a>
 
 - Ghulam Fiza and <b> Ahmed, A </b> and Bohra, Nafeesa and Khan, Sorath and Memon, Azam Rafique and Talpur, Anum,  <a href="https://www.researchgate.net/profile/Aqeel-Ahmed-8">Performance Analysis of Location-Based Smart Catastrophe Monitoring System Using WSN, Wireless Personal Communications,volume=101,pages=405--424, year=2018, publisher, Springer. </a>
 
