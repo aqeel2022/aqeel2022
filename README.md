@@ -28,3 +28,5 @@ Automated Modulation Recognition for Cognitive Radio Networks,” IJCSNS Int. J.
 - <b> A.Ahmed </b> , N. Bohra,A. Talpur,S. Khan,  <a href="https://www.researchgate.net/profile/Aqeel-Ahmed-8"> Performance Analysis of RSSI-based Localization in WSN, presented in 1st International Conference on Computational Sciences and Technologies, INCCST 2019 Jamshoro, Pakistan.</a>
 
 - A. A. Bhoot, D. S. A. Memon,<b> A. Ahmed </b> , and S. Hussain,  <a href="https://www.researchgate.net/profile/Aqeel-Ahmed-8"> Comparative study of Different shapes of Microstrip patch antenna and its applications 2019 2n International Conference on Computing, Mathematics and Engineering Technologies (iCoMET), Sukkur, Pakistan, 2019, pp. 1-8.doi: 10.1109/ ICOMET.2019.8673487 </a>
+
+- <b> A. Ahmed </b> , A.Bhoot, S. Hussain,   <a href= https://www.researchgate.net/publication/329865490_A_review_of_Crosstalk_analysis_and_its_avoidance_techniques_in_Multistage_Optical_Networks> A review of Crosstalk analysis and its avoidance techniques in Multistage Optical Networks </a>
